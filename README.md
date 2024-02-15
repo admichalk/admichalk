@@ -7,6 +7,7 @@ Here is a brief summary of my portfolio:
 ### Languages/Programs:
 MySQL, Excel, Tableau, RStudio, Python (Pandas, Numpy, Seaborn, Matplotlib, Sklearn,TensorFlow)
 
+### Projects:
 > **See my projects by looking at my pins.**
 
 ### Skills: 
